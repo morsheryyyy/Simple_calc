@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Calc</string>
+    <string name="your_number">Ваше число</string>
+    <string name="plus">+</string>
+    <string name="minus">-</string>
+    <string name="multiplicate">*</string>
+    <string name="doubled">/</string>
+    <string name="clear_button">Очистити</string>
+    <string name="calculate_button">Розрахувати</string>
+</resources>
